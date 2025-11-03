@@ -15,6 +15,7 @@ ResQ is a real-time emergency dashboard designed to deliver alerts, weather upda
 - Secure Firestore rules and user logic
 
 ## 🚀 Getting Started
+- https://resq-67c30.web.app/
 ```bash
 git clone https://github.com/Saicharankodidela/resq-emergency-platform.git
 cd resq-emergency-platform
